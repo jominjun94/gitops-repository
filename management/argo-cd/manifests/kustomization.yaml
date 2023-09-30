@@ -1,2 +1,2 @@
 resources:
-  - https://github.com/jominjun94/management-repository//argo-cd?ref=main
+  - https://github.com/jominjun94/argo-cd-repository//argo-cd?ref=main
