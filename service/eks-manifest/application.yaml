@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: eks-manifest
-    repoURL: https://github.com/jominjun94/service-repository.git
+    repoURL: git@github.com:jominjun94/service-repository.git
     targetRevision: HEAD
   syncPolicy:
     automated:
