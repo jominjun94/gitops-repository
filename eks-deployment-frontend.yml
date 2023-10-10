@@ -15,8 +15,8 @@ spec:
     spec:
       containers:
       - name: eks-project
-        image: jch941022/1005
+        image: jch941022/eks-project-frontend
         imagePullPolicy: Always
         ports:
-        - containerPort: 8080
-        
+        - containerPort: 80
+
